@@ -1,7 +1,7 @@
 [
   {
     "username": "admin",
-    "password": "admin@1231",
+    "password": "admin@12311",
     "fullName": "Admin",
     "role": "ADMIN",
     "active": true
