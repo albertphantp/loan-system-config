@@ -1,0 +1,16 @@
+[
+  {
+    "username": "admin",
+    "password": "admin@123",
+    "fullName": "Admin",
+    "role": "ADMIN",
+    "active": true
+  },
+  {
+    "username": "hungvu",
+    "password": "hungvu@2026",
+    "fullName": "Nguyễn Vũ Hùng",
+    "role": "STAFF",
+    "active": true
+  }
+]
